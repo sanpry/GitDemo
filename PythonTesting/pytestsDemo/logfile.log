@@ -1,0 +1,36 @@
+2020-05-07 00:47:14,795 :DEBUG :pytestsDemo.test_logging :A debug statement is executed
+2020-05-07 00:47:14,795 :INFO :pytestsDemo.test_logging :Information Statement
+2020-05-07 00:47:14,795 :WARNING :pytestsDemo.test_logging :Something is in warning mode
+2020-05-07 00:47:14,795 :ERROR :pytestsDemo.test_logging :A Major error has occurred
+2020-05-07 00:47:14,795 :CRITICAL :pytestsDemo.test_logging :Critical issue
+2020-05-07 00:48:13,024 :INFO :pytestsDemo.BaseClass :['swetha', 'sangeetha', 'priyanka']
+2020-05-07 00:48:13,039 :INFO :pytestsDemo.BaseClass :swetha
+2020-05-07 00:48:13,039 :INFO :pytestsDemo.BaseClass :priyanka
+2020-05-07 00:48:13,039 :DEBUG :pytestsDemo.test_logging :A debug statement is executed
+2020-05-07 00:48:13,039 :INFO :pytestsDemo.test_logging :Information Statement
+2020-05-07 00:48:13,039 :WARNING :pytestsDemo.test_logging :Something is in warning mode
+2020-05-07 00:48:13,039 :ERROR :pytestsDemo.test_logging :A Major error has occurred
+2020-05-07 00:48:13,039 :CRITICAL :pytestsDemo.test_logging :Critical issue
+2020-05-07 00:51:54,194 :INFO :pytestsDemo.BaseClass :['swetha', 'sangeetha', 'priyanka']
+2020-05-07 00:51:54,194 :INFO :pytestsDemo.BaseClass :swetha
+2020-05-07 00:51:54,194 :INFO :pytestsDemo.BaseClass :priyanka
+2020-05-07 00:52:00,882 :INFO :pytestsDemo.BaseClass :['swetha', 'sangeetha', 'priyanka']
+2020-05-07 00:52:00,882 :INFO :pytestsDemo.BaseClass :swetha
+2020-05-07 00:52:00,882 :INFO :pytestsDemo.BaseClass :priyanka
+2020-05-07 00:54:20,276 :INFO :pytestsDemo.BaseClass :['swetha', 'sangeetha', 'priyanka']
+2020-05-07 00:54:20,276 :INFO :pytestsDemo.BaseClass :swetha
+2020-05-07 00:54:20,276 :INFO :pytestsDemo.BaseClass :priyanka
+2020-05-07 00:54:53,217 :INFO :test_editProfile :['swetha', 'sangeetha', 'priyanka']
+2020-05-07 00:54:53,217 :INFO :test_editProfile :swetha
+2020-05-07 00:54:53,217 :INFO :test_editProfile :priyanka
+2020-05-07 00:55:51,947 :INFO :test_editProfile :['swetha', 'sangeetha', 'priyanka']
+2020-05-07 00:55:51,947 :INFO :test_editProfile :swetha
+2020-05-07 00:55:51,947 :INFO :test_editProfile :priyanka
+2020-05-07 00:55:51,954 :DEBUG :pytestsDemo.test_logging :A debug statement is executed
+2020-05-07 00:55:51,954 :INFO :pytestsDemo.test_logging :Information Statement
+2020-05-07 00:55:51,954 :WARNING :pytestsDemo.test_logging :Something is in warning mode
+2020-05-07 00:55:51,954 :ERROR :pytestsDemo.test_logging :A Major error has occurred
+2020-05-07 00:55:51,954 :CRITICAL :pytestsDemo.test_logging :Critical issue
+2020-05-08 17:22:35,016 :INFO :test_editProfile :['swetha', 'sangeetha', 'priyanka']
+2020-05-08 17:22:35,017 :INFO :test_editProfile :swetha
+2020-05-08 17:22:35,017 :INFO :test_editProfile :priyanka
