@@ -170,13 +170,13 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.excelDemo" />
       <item itemvalue="Python.test_HomePage" />
       <item itemvalue="Python.test_e2e" />
-      <item itemvalue="Python.excelDemo" />
       <item itemvalue="Python tests.pytest in PythonSelfFramework" />
       <item itemvalue="Python tests.pytest in bin" />
-      <item itemvalue="Python tests.pytest in test_e2e.py" />
       <item itemvalue="Python tests.pytest in test_HomePage.py" />
+      <item itemvalue="Python tests.pytest in test_e2e.py" />
       <item itemvalue="Python tests.pytest in tests" />
     </list>
     <recent_temporary>
@@ -249,10 +249,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589373409882" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1589350280362">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1589523337656">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589350280362" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589523337656" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588940919343">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
